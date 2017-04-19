@@ -12,6 +12,7 @@
     "tests"
   ],
   "dependencies": {
-    "less": "^2.7.2"
+    "less": "^2.7.2",
+    "jquery": "^3.2.1"
   }
 }
